@@ -1,0 +1,11 @@
+discord.py
+openai
+asgiref
+python-dotenv
+abstract_utilities
+abstract_ai
+aiofiles
+abstract_security
+collections
+logging
+requests
