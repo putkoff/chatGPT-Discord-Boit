@@ -2,13 +2,13 @@
 
 # Discord Bot with Abstract AI Integration
 
-This repository contains a Discord bot that integrates with the `abstract_ai` module, providing advanced AI-driven interactions within Discord. The bot uses GPT-3 functionalities managed by the `abstract_ai` framework to deliver intelligent and dynamic responses.
+This repository contains a Discord bot that integrates with the `abstract_ai` module, providing advanced AI-driven interactions within Discord. The bot uses gpt-ALL functionalities managed by the `abstract_ai` framework to deliver intelligent and dynamic responses.
 
 ## Features
 
-- **GPT-3 Integration**: Utilizes the GPT-3 model through the `abstract_ai` module for generating responses.
+- **gpt-ALL Integration**: Utilizes the gpt-ALL model through the `abstract_ai` module for generating responses.
 - **Complex Query Handling**: Manages queries, responses, and interactions using various managers such as `GptManager`, `ApiManager`, and `ResponseManager`.
-- **Custom Commands**: Supports custom Discord commands to interact with the GPT-3 model and other features.
+- **Custom Commands**: Supports custom Discord commands to interact with the gpt-ALL model and other features.
 - **Dynamic Personalities**: Adjusts the bot's personality based on channel settings and specific keywords.
 - **Context-Aware Responses**: Generates contextually relevant responses based on personality and message content.
   
@@ -16,18 +16,18 @@ This repository contains a Discord bot that integrates with the `abstract_ai` mo
 
 ### abstract_ai Module
 
-The `abstract_ai` module provides a structured framework to interact with the GPT-3 model. Key components include:
+The `abstract_ai` module provides a structured framework to interact with the gpt-ALL model. Key components include:
 
-- **GptManager**: Central class for managing interactions with GPT-3.
+- **GptManager**: Central class for managing interactions with gpt-ALL.
 - **ApiManager**: Manages API keys and headers.
 - **ModelManager**: Handles model selection and querying.
 - **PromptManager**: Manages prompt generation and token distribution.
-- **ResponseManager**: Handles and processes responses from GPT-3.
+- **ResponseManager**: Handles and processes responses from gpt-ALL.
 
 #### GptManager
 
 - **update_response_mgr**: Updates the `ResponseManager` instance.
-- **get_query**: Retrieves responses from GPT-3.
+- **get_query**: Retrieves responses from gpt-ALL.
 - **update_all**: Synchronizes all managers.
 - **submit_query**: Manages sending and receiving queries.
 
