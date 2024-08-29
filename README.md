@@ -58,12 +58,12 @@ The bot adjusts personalities based on channel settings and message content. Key
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/discord-bot-with-abstract-ai.git
+   git clone https://github.com/putkoff/chatGPT-Discord-Bot.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd discord-bot-with-abstract-ai
+   cd chatGPT-Discord-Bot
    ```
 
 3. **Install dependencies**:
