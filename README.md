@@ -171,12 +171,7 @@ if __name__ == "__main__":
 ## Usage
 
 The bot responds to commands and messages, and can be queried by mentioning its name:
-
 - **Mention the Bot**: To interact with the bot, mention it using `@bot_name`. For example, `@darnell ask <question>` will send the question to GPT-All and return a response.
-- **Commands**:
-  - `!ask <question>`: Sends a question to GPT-All and returns a response.
-  - `!status`: Displays the current status of the bot.
-
 ---
 
 ## Contributing
