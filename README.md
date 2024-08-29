@@ -11,7 +11,7 @@ This repository contains a Discord bot that integrates with the `abstract_ai` mo
 - **Custom Commands**: Supports custom Discord commands to interact with the GPT-3 model and other features.
 - **Dynamic Personalities**: Adjusts the bot's personality based on channel settings and specific keywords.
 - **Context-Aware Responses**: Generates contextually relevant responses based on personality and message content.
-- 
+  
 ## Components
 
 ### abstract_ai Module
